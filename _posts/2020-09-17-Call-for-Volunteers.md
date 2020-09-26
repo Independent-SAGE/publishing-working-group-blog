@@ -9,7 +9,7 @@ Assisting 'Independent SAGE' in innovating rapid publishing for COVID-19. Volunt
 
 The working group is looking for volunteers and resources to help with the rapid publishing, dissemination, and Citizen Science innovation for [Independent SAGE](https://www.independentsage.org/independent-sage/) publications.
 
-Sept 2020 [#iSTPWG Home](https://github.com/Independent-SAGE/Technical-Publishing-Working-Group) |  [Tasks](https://github.com/orgs/Independent-SAGE/projects/2) | [Roadmap](https://github.com/Independent-SAGE/Technical-Publishing-Working-Group/blob/master/README.md#roadmap) | chat using Element (Riot) - room [#iSTPWG:matrix.org](https://view.matrix.org/room/!mAcobxVqDiVFbcVAUf:matrix.org/) download the [Element client](https://element.io/get-started).
+[#iSTPWG Home](https://github.com/Independent-SAGE/Technical-Publishing-Working-Group) [Tasks](https://github.com/orgs/Independent-SAGE/projects/2) [Roadmap](https://github.com/Independent-SAGE/Technical-Publishing-Working-Group/blob/master/README.md#roadmap) chat using Element (Riot) - room [#iSTPWG:matrix.org](https://view.matrix.org/room/!mAcobxVqDiVFbcVAUf:matrix.org/) download the [Element client](https://element.io/get-started).
 
 We're looking for volunteers with the following skill sets to join the working group:
 
@@ -28,9 +28,10 @@ If you're interested in volunteering, or have a question or comment join us on [
 **Roadmap:** Multi-format publish the report back catalogue; Put in place a 'Rapid Publishing' workflow for future reports, and; Develop a Citizen Science programme for publications. [[More](https://github.com/Independent-SAGE/Technical-Publishing-Working-Group/blob/master/README.md#roadmap)]
 
 > We made an example publication in August to settle in the workflows, see: [Should Schools Reopen?](https://independent-sage.github.io/Should-Schools-Reopen/#/)
->
 
-<a href="https://independent-sage.github.io/Should-Schools-Reopen/#/"><img src="https://independent-sage.github.io/Should-Schools-Reopen/report/cover.png" alt="Should Schools Reopen?" align="left" height="50%" width="50%" padding="4px"></a>
+| <a href="https://independent-sage.github.io/Should-Schools-Reopen/#/"><img src="https://independent-sage.github.io/Should-Schools-Reopen/report/cover.png" alt="Should Schools Reopen?" align="left" height="50%" width="50%"></a> | 
+|:--:|
+| *Should Schools Reopen? Independent SAGE Report #2* |
 
 ## Open video call
 
