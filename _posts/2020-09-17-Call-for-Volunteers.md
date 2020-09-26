@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Call for Volunteers
+title: Call for Volunteers&#58; Launching indie_SAGE Technical Publishing Working Group
 published: true
 tags: indie_SAGE iSTPWG publishing volunteers multi-format metadata open-source COVID-19 UK
 ---
-
-# Call for Volunteers: Launching indie_SAGE Technical Publishing Working Group
 
 --- Innovating Rapid Publishing for COVID-19
 
