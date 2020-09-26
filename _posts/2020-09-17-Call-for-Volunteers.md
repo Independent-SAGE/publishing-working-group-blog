@@ -29,7 +29,7 @@ If you're interested in volunteering, or have a question or comment join us on [
 
 > We made an example publication in August to settle in the workflows, see: [Should Schools Reopen?](https://independent-sage.github.io/Should-Schools-Reopen/#/)
 
-| ![Should Schools Reopen?](https://independent-sage.github.io/Should-Schools-Reopen/report/cover.png) | 
+| ![Should Schools Reopen?](https://independent-sage.github.io/Should-Schools-Reopen/report/cover.png) |
 |:--:|
 | *Should Schools Reopen? Independent SAGE Report #2* |
 
