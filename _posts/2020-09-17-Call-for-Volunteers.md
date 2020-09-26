@@ -5,7 +5,7 @@ published: true
 tags: indie_SAGE iSTPWG publishing volunteers multi-format metadata open-source COVID-19 UK
 ---
 
---- Innovating Rapid Publishing for COVID-19
+Assisting 'Independent SAGE' in Innovating Rapid Publishing for COVID-19. Volunteer now!
 
 The working group is looking for volunteers and resources to help with the rapid publishing, dissemination, and Citizen Science innovation for [Independent SAGE](https://www.independentsage.org/independent-sage/) publications.
 
