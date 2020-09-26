@@ -12,6 +12,8 @@ Get Involved! Find us on [GitHub](https://github.com/Independent-SAGE/Technical-
 
 The 'indie_SAGE Technical Publishing Working Group' (#iSTPWG) is a group of Open Science volunteer organised as a working group to assist indie_SAGE in rapid --- multi-format, multi-channel publishing. #iSTPWG carries out technical and publishing tasks and is not involved in the authoring of the reports scientific work. If you have an enquiry about the reports scientific contents please contact [Independent SAGE](https://www.independentsage.org/contact-the-independent-sage/).
 
+Contact the work group leader Simon Worthington if you have any questions DM [@mrchristian99](https://twitter.com/mrchristian99) or via email  [publications@independentsage.org](mailto:publications@independentsage.org).
+
 We are working on the following:
 
   - Back catalogue multi-format publishing
