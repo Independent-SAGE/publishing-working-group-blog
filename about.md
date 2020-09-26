@@ -4,15 +4,23 @@ title: About
 permalink: /about/
 ---
 
-The working group is looking for volunteers and resources to help with the rapid publishing, dissemination, and Citizen Science innovation for [Independent SAGE](https://www.independentsage.org/independent-sage/) publications.
+A volunteer working group assisting [Independent SAGE](https://www.independentsage.org/independent-sage/) in the rapid publishing of its reports and scientific advice, using: Open Access, Open Science, Open-source software, and Citizen Science innovation.
 
 Get Involved! Find us on [GitHub](https://github.com/Independent-SAGE/Technical-Publishing-Working-Group) or join us on chat [#iSTPWG:matrix.org](https://matrix.to/#/!mAcobxVqDiVFbcVAUf:matrix.org?via=matrix.org).
 
 ### More Information
 
-'indie_SAGE Technical Publishing Working Group #iSTPWG'
+The 'indie_SAGE Technical Publishing Working Group' (#iSTPWG) is a group of Open Science volunteer organised as a working group to assist indie_SAGE in rapid --- multi-format, multi-channel publishing. #iSTPWG carries out technical and publishing tasks and is not involved in the authoring of the reports scientific work. If you have an enquiry about the reports scientific contents please contact [Independent SAGE](https://www.independentsage.org/contact-the-independent-sage/).
 
-A group of Open Science volunteer organised as a working group to assist indie_SAGE in rapid --- multi-format, multi-channel publishing. iSTPWG carries out technical and publishing tasks and is not involved in the authoring of the reports scientific work. If you have an enquiry about the reports scientific contents please contact [Independent SAGE](https://www.independentsage.org/contact-the-independent-sage/).
+We are working on the following:
+
+  - Back catalogue multi-format publishing
+  - Introduce Open Access and PIDs
+  - Create metadata and semantically structure publication
+  - Develop an open-source rapid publishing workflow
+  - Open Science publishing. Add all 'micro publications', slides, etc., to Zenodo
+  - Introduce 'Computational Publishing' with Jupyter Notebooks, etc.
+  - Add Citizen Science engagement and digital strategy
 
 [Read more](https://github.com/Independent-SAGE/Technical-Publishing-Working-Group/blob/master/README.md) on GitHub.
 
