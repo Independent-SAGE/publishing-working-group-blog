@@ -6,7 +6,7 @@ https://independent-sage.github.io/publishing-working-group-blog/
 
 All content (c) The Authors - CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
 
-All code OSI opem-source compliant licence.
+All code OSI open-source compliant licence.
 
 ## Blog technical setup
 
