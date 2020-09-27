@@ -1,10 +1,12 @@
 # iSTPWG Blog
 
-To contribute make a pull request and add your draft blogpost to /posts - and DM @mrchristian99
+To contribute make a pull request and add your draft blogpost to /_posts - and DM @mrchristian99
 
 https://independent-sage.github.io/publishing-working-group-blog/
 
 All content (c) The Authors - CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+
+All code OSI opem-source compliant licence.
 
 ## Blog technical setup
 
