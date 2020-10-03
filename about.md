@@ -31,7 +31,7 @@ We are working on the following:
 
 [publications@independentsage.org](mailto:publications@independentsage.org)
 
-### <a name="imprint"></a>Imprint
+### Imprint
 
 Responsible for the content of the domain https://independent-sage.github.io/publishing-working-group-blog/:
 
@@ -43,6 +43,6 @@ Internet: https://consortium.io
 
 The respective authors are responsible for the content of the articles.
 
-### <a name="data"></a>Data protection
+### Data protection
 
 No data trackers are used on this blog and no personal information is stored.
