@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meeting: 001 iSTPWG Open Meeting 17:00 UTC 17.9.2020
+title: Meeting 001 iSTPWG Open Meeting 1700 UTC 17092020
 published: true
 tags: indie_SAGE meeting-notes Europe-PMC
 ---
