@@ -30,3 +30,19 @@ We are working on the following:
 ### Contact
 
 [publications@independentsage.org](mailto:publications@independentsage.org)
+
+### <a name="imprint"></a>Imprint
+
+Responsible for the content of the domain https://independent-sage.github.io/publishing-working-group-blog/:
+
+Simon Worthington (iSTPWG leader),
+Lausitzer Platz 10,
+10997 Berlin, Germany.
+E-mail: simon AT consortium.io
+Internet: https://consortium.io
+
+The respective authors are responsible for the content of the articles.
+
+### <a name="data"></a>Data protection
+
+No data trackers are used on this blog and no personal information is stored.
