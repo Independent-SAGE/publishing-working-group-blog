@@ -12,3 +12,5 @@ The two organisations and their development communities have kindly agreed to le
 **Fidus Writer** is a European open-source company who produce the academic real-time collaborative authoring package 'Fidus Writer'. Already they have helped by adding Europe PMC citations to the authoring software. See: [https://www.fiduswriter.org/](https://www.fiduswriter.org/).
 
 **Vivliostyle** is a Japanese non-profit organisation that maintains the CSS Typesetting open-source software Vivliostyle. See: [https://vivliostyle.org/](https://vivliostyle.org/). We use Vivliostyle to convert Fidus Writer documents into a Web Book, Screen PDF, and print-on-demand PDF.
+
+__The working group needs volunteers and supporters. If you would like to help us please get in touch. DM [@mrchristian99](https://twitter.com/mrchristian99)__
