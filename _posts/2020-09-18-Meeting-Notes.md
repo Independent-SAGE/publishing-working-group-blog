@@ -5,7 +5,7 @@ published: true
 tags: indie_SAGE meeting-notes Europe-PMC
 ---
 
-## Meeting: 001 #iSTPWG Open Meeting 17:00 UTC 17.9.2020
+## Meeting: 001 iSTPWG Open Meeting 17:00 UTC 17.9.2020
 
 Attending: @mrchristian @rqpe @johanneswilm
 
