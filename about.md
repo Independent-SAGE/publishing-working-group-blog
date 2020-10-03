@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-date: 26.09.2020
+date: 03.10.2020
 permalink: /about/
 ---
 
@@ -46,3 +46,5 @@ The respective authors are responsible for the content of the articles.
 ### <a name="data"></a>Data protection
 
 No data trackers are used on this blog and no personal information is stored.
+
+Version 1.2
